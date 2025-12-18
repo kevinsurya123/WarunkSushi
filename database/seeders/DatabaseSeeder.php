@@ -12,4 +12,6 @@ class DatabaseSeeder extends Seeder
             UsersPasswordSeeder::class,
         ]);
     }
+   
+
 }
